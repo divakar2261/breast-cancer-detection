@@ -1,11 +1,12 @@
 # Breast Cancer Detection Using SVM and KNN
 
+
 In this **Data Science** machine learning project, we are going to build an end to end machine learning project and then deploy it via **Heroku**
 
-####Test APP Here : https://stream2261.herokuapp.com/
+Test APP Here : https://stream2261.herokuapp.com/
 
-###UCI data repository
-###Kaggle data repository
+[Kaggle Data Repository](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+
 Attribute Information:
 
 1. Sample code number: id number
