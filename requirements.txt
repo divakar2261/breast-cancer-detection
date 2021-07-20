@@ -1,4 +1,5 @@
 Flask==1.1.1
+Cython>=0.28.5
 gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
