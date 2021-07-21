@@ -2,13 +2,13 @@
 
 ![Breast Cancer](https://images.pexels.com/photos/5910758/pexels-photo-5910758.jpeg?cs=srgb&dl=pexels-anna-tarazevich-5910758.jpg&fm=jpg)
 
-```bash
-    A End-to-End Machine Learning Project On Early Breast Cancer Detection 
-    Using Support Vector Machine and K-Nearest Neighbor Algorithm. 
-    All The Eploratory Data Analysis, Data Visualization and Model Building 
+
+    An End-to-End **Machine Learning** Project On Early **Breast Cancer Detection** 
+    Using **Support Vector Machine** and **K-Nearest Neighbor Algorithm**. 
+    All The **Exploratory Data Analysis**, **Data Visualization** and **Model Building** 
     is in breastCancerDetection.ipynb File.
-```
-Test APP Here : https://stream2261.herokuapp.com/
+    
+You Can Test The APP Here : https://stream2261.herokuapp.com/
 
 [Kaggle Data Repository](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
