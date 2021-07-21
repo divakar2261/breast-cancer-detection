@@ -1,8 +1,6 @@
 # Breast Cancer Detection Using SVM and KNN
 
-THE APP IS LIVE AT..!! : https://stream2261.herokuapp.com/
-
-![Breast Cancer](https://images.pexels.com/photos/5910758/pexels-photo-5910758.jpeg?cs=srgb&dl=pexels-anna-tarazevich-5910758.jpg&fm=jpg)
+THE APP IS LIVE HERE -----> https://stream2261.herokuapp.com/
 
 An End-to-End **Machine Learning** Project On Early **Breast Cancer Detection** Using **Support Vector Machine** and **K-Nearest Neighbor**. All The **Exploratory Data Analysis**, **Data Visualization** and **Model Building** is in breastCancerDetection.ipynb File.
 
