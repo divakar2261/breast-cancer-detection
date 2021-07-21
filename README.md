@@ -3,11 +3,10 @@
 ![Breast Cancer](https://images.pexels.com/photos/5910758/pexels-photo-5910758.jpeg?cs=srgb&dl=pexels-anna-tarazevich-5910758.jpg&fm=jpg)
 
 ```bash
-    A Machine Learning Project On Early Breast Cancer Detection Using Support Vector Machine and K-Nearest Neighbor Algorithm. 
-    All The Eploratory Data Analysis, Data Visualization and Model Building is in breastCancerDetection.ipynb File.
-```
-```bash
-  Test The App Here
+    A End-to-End Machine Learning Project On Early Breast Cancer Detection 
+    Using Support Vector Machine and K-Nearest Neighbor Algorithm. 
+    All The Eploratory Data Analysis, Data Visualization and Model Building 
+    is in breastCancerDetection.ipynb File.
 ```
 Test APP Here : https://stream2261.herokuapp.com/
 
