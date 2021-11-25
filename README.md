@@ -24,3 +24,37 @@ Class: (2 for benign, 4 for malignant)
 **Malignant**==> Cancerous
 
 **Benign**==> Not Cancerous (*Healthy*)
+
+
+Techniques Used
+  Data Cleaning
+  Data Visualization
+  Machine Learning Modeling
+
+Algortihms Used
+  Logistic Regression
+  Support Vector Machine
+  KNN
+  Naivye Bayes
+  Random Forest Classifier
+
+Model Evaluation Methods Used
+  Accuracy Score
+  Confusion Matrix
+  
+Packages and Tools Required:
+  Pandas 
+  Matplotlib
+  Seaborn
+  Scikit Learn
+  Jupyter Notebook
+  
+Package Installation
+  pip install numpy
+  pip install pandas
+  pip install seaborn
+  pip install scikit-learn
+  pip install matplotlib
+  pip install plotly
+  pip install streamlit 
+
