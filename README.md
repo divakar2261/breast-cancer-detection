@@ -27,34 +27,34 @@ Class: (2 for benign, 4 for malignant)
 
 
 Techniques Used
-  Data Cleaning
-  Data Visualization
-  Machine Learning Modeling
+  1. Data Cleaning
+  1. Data Visualization
+  1. Machine Learning Modeling
 
 Algortihms Used
-  Logistic Regression
-  Support Vector Machine
-  KNN
-  Naivye Bayes
-  Random Forest Classifier
+  1. Logistic Regression
+  1. Support Vector Machine
+  1. KNN
+  1. Naivye Bayes
+  1. Random Forest Classifier
 
 Model Evaluation Methods Used
-  Accuracy Score
-  Confusion Matrix
+  1. Accuracy Score
+  1. Confusion Matrix
   
 Packages and Tools Required:
-  Pandas 
-  Matplotlib
-  Seaborn
-  Scikit Learn
-  Jupyter Notebook
+  1. Pandas 
+  1. Matplotlib
+  1. Seaborn
+  1. Scikit Learn
+  1. Jupyter Notebook
   
 Package Installation
-  pip install numpy
-  pip install pandas
-  pip install seaborn
-  pip install scikit-learn
-  pip install matplotlib
-  pip install plotly
-  pip install streamlit 
+  1. pip install numpy
+  1. pip install pandas
+  1. pip install seaborn
+  1. pip install scikit-learn
+  1. pip install matplotlib
+  1. pip install plotly
+  1. pip install streamlit 
 
